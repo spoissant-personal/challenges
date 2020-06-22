@@ -1,0 +1,2 @@
+# Array Comparison Challenge
+Write a function that takes two collections of strings as input, and reports on the difference of these two lists.  It should report what is unique to set A, what is unique to set B, what is in common to both.  All from one function call.

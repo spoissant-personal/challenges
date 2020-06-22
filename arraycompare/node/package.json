@@ -1,0 +1,16 @@
+{
+  "name": "arrraycompare",
+  "version": "1.0.0",
+  "description": "Challenge to copmare two arrays and return similarities and differences",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "challenge",
+    "node",
+    "interview"
+  ],
+  "author": "Simon Poissant",
+  "license": "ISC"
+}

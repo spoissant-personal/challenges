@@ -1,0 +1,1 @@
+Array.from({length:100}, (v, k) => k+1).forEach(v => {console.log(`${v%3 ? '' : 'Fizz'}${v%5 ? '' : 'Buzz'}` || v)})
